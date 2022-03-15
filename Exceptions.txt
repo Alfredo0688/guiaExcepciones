@@ -1,0 +1,18 @@
+en tiempo de ejecucion
+
+ArrayIndexOutOfBoundsException
+IndexOutOfBoundsException
+ClassCastException
+IllegalArgumentException
+ArithmeticException
+NullPointerException
+NumberFormatException
+
+errors
+
+ExceptionInInitializerError
+StackOverflowError
+NoClassDefFoundError
+OutOfMemoryError
+
+ambos grupos pertenecen a errores no verificados??
